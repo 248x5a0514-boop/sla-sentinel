@@ -176,7 +176,7 @@ This project is intended for educational and learning purposes. Add an appropria
 
 ## 👨‍💻 Author
 
-**Jai**
+**GANGADHAR**
 
 GitHub: https://github.com/248x5a0514-boop
 
